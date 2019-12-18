@@ -16,7 +16,7 @@ I have experience with:
 ## Contact Info
 
 ## Projects
-https://github.com/WDoughty/BankManagementSystem
+
 
 ## Education
 Iowa State University              - on going
