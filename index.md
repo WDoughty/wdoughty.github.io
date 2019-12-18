@@ -14,9 +14,10 @@ I have experience with:
 - Javascript
 
 ### Contact Info
+wdoughtydev@gmail.com
 
 ### Projects
-
+To be added
 
 ### Education
 Iowa State University              - on going
