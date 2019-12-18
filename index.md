@@ -1,4 +1,4 @@
-## William Doughty
+### William Doughty
 
 
 ## Bio
