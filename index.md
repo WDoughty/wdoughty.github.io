@@ -22,7 +22,7 @@ To be added
 ### Education
 Iowa State University              - on going
   
-Des Moines Area Community College  - 2018
+Des Moines Area Community College  - May 2017
 Associates in Liberal Arts        
 
 ### Work Experience
