@@ -1,8 +1,9 @@
 header{
     position: relative;
-    width: 100%;
+    width: auto;
     height: 60px;
     background-color: #505050;
+    border-style: solid;
 }
 #header_container{
     position: relative;
@@ -12,6 +13,8 @@ header{
     margin-right: auto;
     background-color: #505050;
 }
+
+
 #title-name{
     float: left;
     top: 12px;
@@ -49,3 +52,108 @@ div{
 .icon-linkedin{
     background-image: url(../image/icon-linkedin.png);
 }
+
+#portfolio1 {
+    background-image: url(../image/dark-gray.jpg);
+    background-position: center top;
+}
+
+.portfolio{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+
+.portfolio_container {
+    position: relative;
+    width: 1200px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio_text_container_left{
+    left:0px;
+}
+.portfolio_text_container{
+    position: absolute;
+    width: 360px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.portfolio_text_title{
+    position: relative;
+    font-family: Verdana;
+    color: black;
+    font-size: 70px;
+    line-height: 56px;
+    margin-bottom: 18px;
+}
+
+.portfolio_text_body{
+    position: relative;
+    font-family: Verdana;
+    color: black;
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+
+.portfolio_text_button{
+    position: relative;
+    display: inline-block;
+    padding: 12px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color:black;
+    font-family: Verdana;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#portfolio2{
+    background-color: #659DBD;
+
+}
+footer{
+    background-color: #659DBD;
+    color: black;
+    font-size: 16px;
+    font-family: Verdana;
+}
+
+#skills1{
+    background-color: white;
+}
+
+.skills{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.skills_text{
+    font-family: Verdana;
+    font-size: 20px;
+    border-bottom:3px double black ;
+
+}
+
+.skills_container{
+    position: absolute;
+    width: 360px;
+    top: 50%;
+}
+
+.skills_list{
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+
+}
+
+
+
