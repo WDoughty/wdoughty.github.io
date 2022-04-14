@@ -11,7 +11,7 @@ const NavBar = () => {
                     
                 </a>
 
-                <a href = "https://github.com/WDoughty" target="_blank" rel="noreferrer">
+                <a href = "https://github.com/WDoughtydev" target="_blank" rel="noreferrer">
                     <Icon  src={`../../image/icon-github.png`} ></Icon>
                     
                 </a>

@@ -67,19 +67,7 @@ const Resume = () =>{
                     </StyledParagraph>
                 <StyledPHeader>Genetic Algorithm Optimzation for Machine Learning</StyledPHeader>
                     <StyledParagraph>Implemented a genetic algorithm that would create and train convolutional neural networks for optimized models.</StyledParagraph>
-
-
-
-            
-                
-            
-            
-            
-
-
         </StyledDiv>
-
-
 
     )
 
