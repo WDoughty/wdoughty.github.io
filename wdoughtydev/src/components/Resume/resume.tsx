@@ -8,28 +8,35 @@ const Resume = () =>{
         <StyledDiv>
             <ResumeH1>William Doughty</ResumeH1>
             <StyledResumeHeader> About Me </StyledResumeHeader>
-                <StyledParagraph style={{textAlign:"center"}}> I'm following my passion of designing software solutions to real life problems  </StyledParagraph>
+                <StyledParagraph style={{textAlign:"center"}}> I'm following my passion of designing software solutions to real life problems. </StyledParagraph>
             <StyledResumeHeader>Experience</StyledResumeHeader>
-                <StyledPHeader>Associate Application Developer Intern | IBM</StyledPHeader>
-                    <StyledParagraph> I worked as a full stack application developer with IBM. While there I worked in an agile team to design and develop micro-servives.   </StyledParagraph>
-                <StyledPHeader>Data Center Technician | TEKsystems | Microsoft </StyledPHeader>
-                    <StyledParagraph>I worked as a Data center Technician through TEKsystems at a Microsoft location.
-                        I worked in a team to run and label copper and fiber optic cables as well as installing hardware components into server racks.
-                    </StyledParagraph>
-                <StyledPHeader>Administrative Assistant | Gannett</StyledPHeader>
-                    <StyledParagraph>I worked as an Administrative Assistant with Gannet between May 2015 and Decemeber 2017. I entered shipping information into 
-                        an Microsoft Access Database, completed paperwork and weekly reports for shipments, and compiled data for daily reports. I also operated warehouse machinery
-                        such as forklifts and powered pallet jacks.
-                    </StyledParagraph>
-            <StyledResumeHeader>Military</StyledResumeHeader>
-            
-            
+                <StyledPHeader>Software Engineer | Vermeer</StyledPHeader>
+                <StyledParagraph>I work as a full stack software engineer, working with Angular, .NET, SQL, and Azure.</StyledParagraph>
+
+            <StyledPHeader>Software Engineer Intern | Vermeer</StyledPHeader>
+                <StyledParagraph>I worked as an intern, developing convolutional neural networks used for object detection. Analyzed and categorized data, and developed a genetic algorithm to aid in the creation of optimized CNN's.</StyledParagraph>
+
+            <StyledPHeader>Associate Application Developer Intern | IBM</StyledPHeader>
+                <StyledParagraph> I worked as a full stack application developer with IBM. While there I worked in an agile team to design and develop micro-servives.   </StyledParagraph>
+
+            <StyledPHeader>Data Center Technician | TEKsystems | Microsoft </StyledPHeader>
+                <StyledParagraph>I worked as a Data center Technician through TEKsystems at a Microsoft location.
+                    I worked in a team to run and label copper and fiber optic cables as well as installing hardware components into server racks.
+                </StyledParagraph>
+
+            <StyledPHeader>Administrative Assistant | Gannett</StyledPHeader>
+                <StyledParagraph>I worked as an Administrative Assistant with Gannet between May 2015 and Decemeber 2017. I entered shipping information into 
+                    an Microsoft Access Database, completed paperwork and weekly reports for shipments, and compiled data for daily reports. I also operated warehouse machinery
+                    such as forklifts and powered pallet jacks.
+                </StyledParagraph>
+
+            <StyledResumeHeader>Military</StyledResumeHeader>   
                 <StyledPHeader>Corporal | United States Marine Corps</StyledPHeader>
                     <StyledParagraph>I served as a Musician (MOS 5524) in the United States Marine Corps from 2010 to 2014. I was stationed in New Orleans, LA with the 4th Marine Division. 
                     </StyledParagraph>
 
             <StyledResumeHeader>Education</StyledResumeHeader>
-                <StyledPHeader>Pursing Bachelor of Arts in Computer Science | Iowa State University | Fall 2016 - Fall 2021</StyledPHeader>
+                <StyledPHeader>Bachelor of Science in Computer Science | Iowa State University | Fall 2016 - Fall 2021</StyledPHeader>
                 <StyledPHeader>Associate of Arts in Liberal Arts | Des Moines Area Community College | Spring 2015 - Summer 2016</StyledPHeader>
             <StyledResumeHeader>Skills and Programming Languages</StyledResumeHeader>
                 <table style={{borderSpacing:'1em'}}>
@@ -56,6 +63,12 @@ const Resume = () =>{
                         <ResumeTD>React</ResumeTD>
                         <ResumeTD>Node.js</ResumeTD>
                         <ResumeTD>Golang</ResumeTD>
+                    </tr>
+                    <tr>
+                        <ResumeTD>.NET</ResumeTD>
+                        <ResumeTD>Azure</ResumeTD>
+                        <ResumeTD>IoT</ResumeTD>
+                        <ResumeTD>Angular</ResumeTD>
                     </tr>
                 </table>
             
